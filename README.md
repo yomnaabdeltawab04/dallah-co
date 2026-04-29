@@ -1,4 +1,4 @@
-# Dallah & Co. ☕
+# Dallah & Co.
 
 A multi-page café website for a fictional Dubai-based coffee shop that blends Arabic coffee traditions with modern café culture.
 
